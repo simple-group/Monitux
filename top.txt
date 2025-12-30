@@ -1,0 +1,274 @@
+ 08:56:47 up 18:26,  1 user,  load average: 0,28, 0,33, 0,32
+UTIL.    TTY        LOGIN@   IDLE   JCPU   PCPU QUOI
+brice    tty7      mer14   18:26m  8:38   0.53s /usr/bin/lxsession -s Lubuntu -e LXDE
+
+              total       utilisé      libre     partagé tamp/cache   disponible
+Mem:           7,5G        1,5G        4,0G        187M        2,1G        5,6G
+Partition d'échange:        2,0G          0B        2,0G
+
+
+Linux 5.4.0-54-generic (brice-m44) 	27/04/23 	_x86_64_	(8 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0,65    0,00    0,49    0,00    0,00   98,84
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+sda               4,47        22,08        98,31    1465945    6527253
+sda1              0,00         0,03         0,00       2124          0
+sda2              0,00         0,09         0,00       5929          1
+sda3              0,00         0,01         0,00        608          0
+sda4              0,00         0,03         0,00       2139          0
+sda5              4,45        21,88        98,31    1452985    6527252
+
+
+top - 08:56:47 up 18:26,  1 user,  load average: 0,28, 0,33, 0,32
+Tâches: 243 total,   1 en cours, 176 en veille,   0 arrêté,   0 zombie
+%Cpu(s):  0,7 ut,  0,3 sy,  0,0 ni, 98,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+KiB Mem :  7856796 total,  4164828 libr,  1521380 util,  2170588 tamp/cache
+KiB Éch:  2097148 total,  2097148 libr,        0 util.  5844012 dispo Mem 
+
+  PID UTIL.     PR  NI    VIRT    RES    SHR S  %CPU %MEM    TEMPS+ COM.
+ 1044 root      20   0  916812  65084  40036 S   6,7  0,8   8:38.33 Xorg
+ 2484 brice     20   0 1181348  77928  59228 S   6,7  1,0   8:43.13 skypeforlinux
+    1 root      20   0  225632   9332   6644 S   0,0  0,1   1:11.94 systemd
+    2 root      20   0       0      0      0 S   0,0  0,0   0:00.02 kthreadd
+    3 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_gp
+    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 rcu_par_gp
+    6 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/0:0H-kb
+    9 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 mm_percpu_wq
+   10 root      20   0       0      0      0 S   0,0  0,0   0:00.78 ksoftirqd/0
+   11 root      20   0       0      0      0 I   0,0  0,0   0:20.73 rcu_sched
+   12 root      rt   0       0      0      0 S   0,0  0,0   0:00.07 migration/0
+   13 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/0
+   14 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/0
+   15 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/1
+   16 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/1
+   17 root      rt   0       0      0      0 S   0,0  0,0   0:00.23 migration/1
+   18 root      20   0       0      0      0 S   0,0  0,0   0:00.31 ksoftirqd/1
+   20 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/1:0H-kb
+   21 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/2
+   22 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/2
+   23 root      rt   0       0      0      0 S   0,0  0,0   0:00.24 migration/2
+   24 root      20   0       0      0      0 S   0,0  0,0   0:00.16 ksoftirqd/2
+   26 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/2:0H-kb
+   27 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/3
+   28 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/3
+   29 root      rt   0       0      0      0 S   0,0  0,0   0:00.23 migration/3
+   30 root      20   0       0      0      0 S   0,0  0,0   0:00.13 ksoftirqd/3
+   32 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/3:0H-kb
+   33 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/4
+   34 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/4
+   35 root      rt   0       0      0      0 S   0,0  0,0   0:00.22 migration/4
+   36 root      20   0       0      0      0 S   0,0  0,0   0:00.51 ksoftirqd/4
+   38 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/4:0H-kb
+   39 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/5
+   40 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/5
+   41 root      rt   0       0      0      0 S   0,0  0,0   0:00.24 migration/5
+   42 root      20   0       0      0      0 S   0,0  0,0   0:00.31 ksoftirqd/5
+   44 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/5:0H-kb
+   45 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/6
+   46 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/6
+   47 root      rt   0       0      0      0 S   0,0  0,0   0:00.23 migration/6
+   48 root      20   0       0      0      0 S   0,0  0,0   0:00.27 ksoftirqd/6
+   50 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/6:0H-kb
+   51 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/7
+   52 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 idle_inject/7
+   53 root      rt   0       0      0      0 S   0,0  0,0   0:00.23 migration/7
+   54 root      20   0       0      0      0 S   0,0  0,0   0:00.11 ksoftirqd/7
+   56 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/7:0H-kb
+   57 root      20   0       0      0      0 S   0,0  0,0   0:00.00 kdevtmpfs
+   58 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 netns
+   59 root      20   0       0      0      0 S   0,0  0,0   0:00.00 rcu_tasks_kthre
+   60 root      20   0       0      0      0 S   0,0  0,0   0:00.00 kauditd
+   63 root      20   0       0      0      0 S   0,0  0,0   0:00.04 khungtaskd
+   64 root      20   0       0      0      0 S   0,0  0,0   0:00.00 oom_reaper
+   65 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 writeback
+   66 root      20   0       0      0      0 S   0,0  0,0   0:00.00 kcompactd0
+   67 root      25   5       0      0      0 S   0,0  0,0   0:00.00 ksmd
+   68 root      39  19       0      0      0 S   0,0  0,0   0:00.00 khugepaged
+  115 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kintegrityd
+  116 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kblockd
+  117 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 blkcg_punt_bio
+  119 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 tpm_dev_wq
+  120 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 ata_sff
+  121 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 md
+  122 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 edac-poller
+  123 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 devfreq_wq
+  124 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 watchdogd
+  131 root      20   0       0      0      0 S   0,0  0,0   0:00.00 kswapd0
+  132 root      20   0       0      0      0 S   0,0  0,0   0:00.00 ecryptfs-kthrea
+  134 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kthrotld
+  135 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 irq/122-pciehp
+  136 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 irq/125-pciehp
+  137 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 acpi_thermal_pm
+  138 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 vfio-irqfd-clea
+  145 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 ipv6_addrconf
+  154 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kstrp
+  157 root       0 -20       0      0      0 I   0,0  0,0   0:00.66 kworker/u17:0-r
+  172 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 charger_manager
+  232 root      20   0       0      0      0 S   0,0  0,0   0:00.00 scsi_eh_0
+  233 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 scsi_tmf_0
+  234 root      20   0       0      0      0 S   0,0  0,0   0:00.00 scsi_eh_1
+  235 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 scsi_tmf_1
+  236 root      20   0       0      0      0 S   0,0  0,0   0:00.00 scsi_eh_2
+  237 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 scsi_tmf_2
+  240 root       0 -20       0      0      0 I   0,0  0,0   0:00.30 kworker/5:1H-kb
+  260 root       0 -20       0      0      0 I   0,0  0,0   0:00.05 kworker/2:1H-kb
+  263 root       0 -20       0      0      0 I   0,0  0,0   0:00.06 kworker/0:1H-kb
+  264 root      20   0       0      0      0 S   0,0  0,0   0:02.54 jbd2/sda5-8
+  265 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 ext4-rsv-conver
+  267 root       0 -20       0      0      0 I   0,0  0,0   0:00.11 kworker/3:1H-kb
+  276 root       0 -20       0      0      0 I   0,0  0,0   0:00.07 kworker/7:1H-kb
+  280 root       0 -20       0      0      0 I   0,0  0,0   0:00.03 kworker/4:1H-kb
+  295 root       0 -20       0      0      0 I   0,0  0,0   0:00.08 kworker/6:1H-kb
+  314 root      20   0       0      0      0 I   0,0  0,0   0:03.08 kworker/1:4-eve
+  329 root      20   0    4512    744    680 S   0,0  0,0   0:00.00 none
+  330 root      19  -1  169052  59020  57932 S   0,0  0,8   0:01.67 systemd-journal
+  343 root      20   0   47404   5440   3152 S   0,0  0,1   0:00.30 systemd-udevd
+  374 root      20   0       0      0      0 I   0,0  0,0   0:02.92 kworker/2:2-mm_
+  377 brice     20   0 4781296  55460  41124 S   0,0  0,7   0:00.10 chrome
+  387 root       0 -20       0      0      0 I   0,0  0,0   0:00.04 kworker/1:1H-kb
+  463 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kmemstick
+  465 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 irq/148-mei_me
+  467 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 cfg80211
+  475 root     -51   0       0      0      0 S   0,0  0,0   0:03.97 irq/95-MSFT0001
+  477 root     -51   0       0      0      0 S   0,0  0,0   0:03.07 irq/149-iwlwifi
+  478 root     -51   0       0      0      0 S   0,0  0,0   0:00.23 irq/150-iwlwifi
+  479 root     -51   0       0      0      0 S   0,0  0,0   0:00.16 irq/151-iwlwifi
+  480 root     -51   0       0      0      0 S   0,0  0,0   0:00.63 irq/152-iwlwifi
+  481 root     -51   0       0      0      0 S   0,0  0,0   0:00.17 irq/153-iwlwifi
+  482 root     -51   0       0      0      0 S   0,0  0,0   0:00.21 irq/154-iwlwifi
+  483 root     -51   0       0      0      0 S   0,0  0,0   0:00.13 irq/155-iwlwifi
+  484 root     -51   0       0      0      0 S   0,0  0,0   0:00.12 irq/156-iwlwifi
+  485 root     -51   0       0      0      0 S   0,0  0,0   0:01.28 irq/157-iwlwifi
+  486 root     -51   0       0      0      0 S   0,0  0,0   0:00.00 irq/158-iwlwifi
+  494 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 cryptd
+  660 systemd+  20   0  144020   3216   2672 S   0,0  0,0   0:00.05 systemd-timesyn
+  662 systemd+  20   0   70668   5016   4456 S   0,0  0,1   0:05.50 systemd-resolve
+  730 root      20   0    4556    804    740 S   0,0  0,0   0:00.85 acpid
+  735 syslog    20   0  263040   4696   3660 S   0,0  0,1   0:00.72 rsyslogd
+  748 root      20   0  110556   2056   1840 S   0,0  0,0   0:01.65 irqbalance
+  763 root      20   0  289204   7244   6292 S   0,0  0,1   0:00.85 accounts-daemon
+  766 avahi     20   0   47268   3160   2816 S   0,0  0,0   0:04.86 avahi-daemon
+  768 root      20   0   70704   6160   5380 S   0,0  0,1   0:40.12 systemd-logind
+  769 message+  20   0   51360   5440   3808 S   0,0  0,1   1:40.25 dbus-daemon
+  779 root      20   0   45624   8080   7140 S   0,0  0,1   0:00.31 wpa_supplicant
+  780 root      20   0  483224  17932  14176 S   0,0  0,2   0:31.81 NetworkManager
+  782 root      20   0  434332   9548   8124 S   0,0  0,1   0:00.02 ModemManager
+  783 root      20   0 1215096  47436   9188 S   0,0  0,6   7:36.95 main thread
+  784 root      20   0  171768  17212   9300 S   0,0  0,2   0:00.05 networkd-dispat
+  786 root      20   0   32560   3228   2936 S   0,0  0,0   0:00.06 cron
+  787 root      20   0  473680  10352   7852 S   0,0  0,1   0:06.19 udisksd
+  791 avahi     20   0   47080    344      0 S   0,0  0,0   0:00.00 avahi-daemon
+  838 root       0 -20       0      0      0 I   0,0  0,0   0:00.36 kworker/u17:2-r
+  839 root      20   0   36500   4656   4248 S   0,0  0,1   0:00.00 bluetoothd
+  863 root      20   0   41884   2432   2052 S   0,0  0,0   0:50.99 cpufreqd
+  895 root      20   0    5064   2024   1632 S   0,0  0,0   0:08.49 dhcpcd
+  919 root      20   0  297444   9724   7020 S   0,0  0,1   0:03.64 polkitd
+  990 vnstat    20   0    8312   1188   1108 S   0,0  0,0   0:02.39 vnstatd
+ 1020 root      20   0  364264   6956   5896 S   0,0  0,1   0:00.02 lightdm
+ 1031 debian-+  20   0  149824  92596  22396 S   0,0  1,2   0:38.92 tor
+ 1034 mysql     20   0 1424476 178068  15360 S   0,0  2,3   0:24.34 mysqld
+ 1035 root      20   0  492212  27608  20924 S   0,0  0,4   0:01.51 apache2
+ 1046 root      20   0   17420   1932   1796 S   0,0  0,0   0:00.00 agetty
+ 1166 root      20   0  248460   6868   5964 S   0,0  0,1   0:00.01 lightdm
+ 1317 whoopsie  20   0  377012  11932  10384 S   0,0  0,2   0:00.02 whoopsie
+ 1319 kernoops  20   0   56944    416      0 S   0,0  0,0   0:00.79 kerneloops
+ 1321 kernoops  20   0   56944    424      0 S   0,0  0,0   0:00.79 kerneloops
+ 1977 root      20   0  368148  13960  12244 S   0,0  0,2   0:00.26 packagekitd
+ 2118 brice     20   0   76908   7964   6628 S   0,0  0,1   0:00.02 systemd
+ 2119 brice     20   0  259612   2868     28 S   0,0  0,0   0:00.00 (sd-pam)
+ 2132 brice     20   0  361380  13504  11808 S   0,0  0,2   0:00.53 lxsession
+ 2148 brice     20   0   50584   5064   3928 S   0,0  0,1   0:00.29 dbus-daemon
+ 2188 brice     20   0   11312    320      0 S   0,0  0,0   0:00.17 ssh-agent
+ 2199 brice     20   0  286312   7280   6320 S   0,0  0,1   0:00.04 gvfsd
+ 2204 brice     20   0  416116   5364   4828 S   0,0  0,1   0:00.00 gvfsd-fuse
+ 2214 brice     20   0  394492  23220  16724 S   0,0  0,3   0:04.12 openbox
+ 2216 brice     20   0  760216  35240  25596 S   0,0  0,4   0:12.42 lxpanel
+ 2222 brice     20   0  826900  36464  25264 S   0,0  0,5   1:01.93 pcmanfm
+ 2223 brice     20   0  378120  27848  22924 S   0,0  0,4   0:00.39 lxpolkit
+ 2230 brice     20   0   11312    320      0 S   0,0  0,0   0:00.00 ssh-agent
+ 2237 brice     20   0  572128  24928  20076 S   0,0  0,3   0:00.83 update-notifier
+ 2241 brice     20   0  722668  37156  29744 S   0,0  0,5   0:06.79 nm-applet
+ 2244 brice     20   0  400896  22732  18584 S   0,0  0,3   0:00.24 light-locker
+ 2248 brice     20   0   32116  10528   5588 S   0,0  0,1   0:00.03 slimbookbattery
+ 2260 brice     20   0  592036   8564   6772 S   0,0  0,1   9:38.39 conky
+ 2265 brice     20   0  188020   5296   4600 S   0,0  0,1   0:00.02 dconf-service
+ 2266 brice     20   0  348120  26564  21228 S   0,0  0,3   0:05.34 xfce4-power-man
+ 2270 brice     20   0 2971316 122432  89656 S   0,0  1,6   0:37.99 skypeforlinux
+ 2277 brice     20   0 1057136  17232  13200 S   0,0  0,2   0:00.21 pulseaudio
+ 2290 brice     20   0   59132   5052   4544 S   0,0  0,1   0:00.00 xfconfd
+ 2306 brice     20   0    4632    788    720 S   0,0  0,0   0:00.00 sh
+ 2309 brice     20   0  465396  30108  24916 S   0,0  0,4   0:00.44 xfce4-notifyd
+ 2310 brice     20   0  513324  38436  23180 S   0,0  0,5   0:00.30 python3
+ 2314 brice     20   0  192296   5688   5108 S   0,0  0,1   0:00.00 menu-cached
+ 2322 brice     20   0  300980   8496   7184 S   0,0  0,1   0:00.14 gvfs-udisks2-vo
+ 2323 root      20   0  316800   9308   8004 S   0,0  0,1   0:00.82 upowerd
+ 2335 brice     20   0  282972   6688   5912 S   0,0  0,1   0:00.00 gvfs-gphoto2-vo
+ 2357 brice     20   0  373160   7732   6860 S   0,0  0,1   0:00.00 gvfs-afc-volume
+ 2358 brice     20   0  372888  39460  32892 S   0,0  0,5   0:00.02 skypeforlinux
+ 2374 brice     20   0  270180   4804   4336 S   0,0  0,1   0:00.00 gvfs-mtp-volume
+ 2387 brice     20   0  372888   6632     20 S   0,0  0,1   0:00.00 skypeforlinux
+ 2392 brice     20   0  268388   6064   5496 S   0,0  0,1   0:00.00 gvfs-goa-volume
+ 2404 brice     20   0  362596   7496   6548 S   0,0  0,1   0:00.04 gvfsd-trash
+ 2430 brice     20   0  850296  14480  12584 S   0,0  0,2   0:00.05 indicator-sound
+ 2432 brice     20   0  517556   9608   8312 S   0,0  0,1   0:00.22 indicator-appli
+ 2491 brice     20   0  906344  59064  49172 S   0,0  0,8   0:05.72 skypeforlinux
+ 2509 brice     20   0 2241252 181704 103968 S   0,0  2,3   8:02.07 skypeforlinux
+ 2552 brice     20   0  430336   9468   8328 S   0,0  0,1   0:00.08 gnome-keyring-d
+ 2868 brice     20   0  554368  38764  27808 S   0,0  0,5   0:06.66 lxterminal
+ 2871 brice     20   0   24920   6356   3972 S   0,0  0,1   0:00.42 bash
+ 2985 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/0:1-cgr
+ 3290 brice     20   0 1007024 271544 135372 S   0,0  3,5  13:08.24 chrome
+ 3295 brice     20   0    8848    748    684 S   0,0  0,0   0:00.00 cat
+ 3296 brice     20   0    8848    832    768 S   0,0  0,0   0:00.00 cat
+ 3299 brice     20   0  468028  61824  50660 S   0,0  0,8   0:00.06 chrome
+ 3300 brice     20   0  468028  61668  50476 S   0,0  0,8   0:00.06 chrome
+ 3301 brice     20   0   27312   4148   3584 S   0,0  0,1   0:00.00 nacl_helper
+ 3304 brice     20   0  468028  16012   4820 S   0,0  0,2   0:00.22 chrome
+ 3325 brice     20   0  695628 114384  56868 S   0,0  1,5   7:17.10 chrome
+ 3327 brice     20   0  550796 103248  62048 S   0,0  1,3   1:04.45 chrome
+ 3332 brice     20   0  529408  38824  25208 S   0,0  0,5   0:00.30 chrome
+ 3391 brice     20   0 14,620g 102516  71224 S   0,0  1,3   0:01.88 chrome
+ 3481 brice     20   0 4838240 104332  83152 S   0,0  1,3   0:01.90 chrome
+ 4032 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/7:1-cgr
+ 5203 brice     20   0   24212   5152   3440 S   0,0  0,1   0:00.02 bash
+ 5443 brice     20   0  198836   6048   5436 S   0,0  0,1   0:00.00 gvfsd-metadata
+ 5698 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/1:1-cgr
+ 6725 root      20   0       0      0      0 I   0,0  0,0   0:00.27 kworker/u16:2-e
+ 7414 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/6:1-cgr
+ 8210 brice     20   0  364780   7580   6704 S   0,0  0,1   0:00.03 gvfsd-network
+ 8257 brice     20   0  375628   7396   6472 S   0,0  0,1   0:01.47 gvfsd-dnssd
+ 8580 root      20   0       0      0      0 I   0,0  0,0   0:00.85 kworker/4:0-eve
+ 9349 brice     20   0   14124   3288   2984 S   0,0  0,0   0:06.07 bash
+11382 brice     20   0 4902332 156160  88964 S   0,0  2,0   0:57.63 chrome
+11600 brice     20   0 4913748 130660  77072 S   0,0  1,7   0:50.98 chrome
+11733 root      20   0       0      0      0 I   0,0  0,0   0:00.12 kworker/u16:0-e
+12051 brice     20   0  759088  59548  48772 S   0,0  0,8   0:00.57 chrome
+12751 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/3:0-cgr
+14409 root      20   0       0      0      0 I   0,0  0,0   0:00.08 kworker/u16:1-e
+14769 brice     20   0 5668848 157556  83004 S   0,0  2,0  10:54.04 chrome
+15442 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/0:0-mm_
+15443 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/5:1-mm_
+15643 root      20   0       0      0      0 I   0,0  0,0   0:08.41 kworker/4:2-eve
+15894 brice     20   0   45564   4212   3488 R   0,0  0,1   0:00.00 top
+16555 root      20   0   25988   6388   5112 S   0,0  0,1   0:00.00 dhclient
+22080 root      20   0       0      0      0 I   0,0  0,0   0:03.77 kworker/6:0-eve
+22248 root      20   0       0      0      0 I   0,0  0,0   0:03.20 kworker/0:3-eve
+25234 root      20   0       0      0      0 I   0,0  0,0   0:03.50 kworker/5:0-eve
+27326 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/5:2
+27644 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/2:1-cgr
+29080 root      20   0       0      0      0 I   0,0  0,0   0:02.42 kworker/3:2-mm_
+29103 brice     -3   0  464152  45440   9176 S   0,0  0,6   0:20.94 main thread
+29108 brice     -3   0  218372  36024   8460 S   0,0  0,5   0:00.08 main thread
+29111 brice     20   0 98,272g 191868  46836 S   0,0  2,4   0:24.60 main thread
+29123 brice     20   0 82,184g  78304  64832 S   0,0  1,0   0:05.94 WebKitWebProces
+29124 brice     20   0 82,395g  49416  35420 S   0,0  0,6   0:00.06 WebKitNetworkPr
+32066 www-data  20   0  494532  15336   8628 S   0,0  0,2   0:00.00 apache2
+32067 www-data  20   0  494532  15336   8628 S   0,0  0,2   0:00.00 apache2
+32068 www-data  20   0  494532  15336   8628 S   0,0  0,2   0:00.00 apache2
+32070 www-data  20   0  494532  15336   8628 S   0,0  0,2   0:00.00 apache2
+32071 www-data  20   0  494532  15336   8628 S   0,0  0,2   0:00.00 apache2
+32090 root      20   0  111840  18404   7168 S   0,0  0,2   0:00.04 cupsd
+32580 root      20   0       0      0      0 I   0,0  0,0   0:03.43 kworker/7:0-eve
+

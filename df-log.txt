@@ -1,0 +1,9 @@
+Sys. de fichiers Taille Utilisé Dispo Uti% Monté sur
+udev               3,8G       0  3,8G   0% /dev
+tmpfs              768M    1,6M  766M   1% /run
+/dev/sda5          102G     53G   44G  55% /
+tmpfs              3,8G     56M  3,7G   2% /dev/shm
+tmpfs              5,0M    4,0K  5,0M   1% /run/lock
+tmpfs              3,8G       0  3,8G   0% /sys/fs/cgroup
+/dev/sda2           96M     31M   66M  33% /boot/efi
+tmpfs              768M     24K  768M   1% /run/user/1000

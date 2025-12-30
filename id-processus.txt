@@ -1,0 +1,3 @@
+ 9349 pts/0    S+     0:00 bash ./simple_sysadmin2.sh
+ 9351 pts/0    S+     0:00 grep simple_sysadmin2
+18776 ?        Sl     0:22 geany /home/brice/Documents/script monitoring server/script_sysadmin_2023/simple_sysadmin2.sh

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { 
+            margin: 0; 
+            padding: 0; 
+            background-color: #000; /* Fond noir pour éviter les flashs blancs au reload */
+            overflow: hidden; 
+        }
+        iframe { 
+            width: 100vw; 
+            height: 100vh; 
+            border: none; 
+            /* C'est ici que la magie opère : Inversion des couleurs + teinte verte */
+            filter: invert(1) hue-rotate(120deg) saturate(3) contrast(1.5);
+            display: block;
+        }
+    </style>
+    <script>
+        // Votre logique de rafraichissement est conservée
+        function timedRefresh(timeoutPeriod) {
+            setTimeout("location.reload(true);", timeoutPeriod);
+        }
+        // Adaptez la durée ici selon le fichier (ex: 11000 pour le CPU)
+        window.onload = timedRefresh(11000); 
+    </script>
+</head>
+<body>
+<center>
+	<iframe src="srvc-all.txt" width="100%" height="100%"></iframe>
+</center>
+</body>

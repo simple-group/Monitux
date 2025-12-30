@@ -1,0 +1,6 @@
+brice    tty7         0.0.0.0          Wed Apr 26 14:31    gone - no logout
+reboot   system boot  0.0.0.0          Wed Apr 26 14:30   still running
+brice    tty7         0.0.0.0          Tue Apr 11 14:00 - 19:16 (6+05:16)
+reboot   system boot  0.0.0.0          Tue Apr 11 13:59 - 19:16 (6+05:16)
+
+wtmp commence Tue Apr 11 13:59:25 2023

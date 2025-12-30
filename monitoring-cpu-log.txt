@@ -1,0 +1,55 @@
+
+jeudi 27 avril 2023, 08:56:12 (UTC+0200)
+
+USER       UID COMMAND           PID %CPU TT
+brice     1000 chrome           3290  1.1 ?
+brice     1000 chrome          14769  1.0 ?
+brice     1000 conky            2260  0.8 ?
+root         0 Xorg             1044  0.7 tty7
+brice     1000 skypeforlinux    2484  0.7 ?
+brice     1000 skypeforlinux    2509  0.7 ?
+root         0 main thread       783  0.6 ?
+brice     1000 chrome           3325  0.6 ?
+root         0 systemd             1  0.1 ?
+message+   103 dbus-daemon       769  0.1 ?
+root         0 kthreadd            2  0.0 ?
+
+-------------------------------- 3198
+
+
+jeudi 27 avril 2023, 08:56:29 (UTC+0200)
+
+USER       UID COMMAND           PID %CPU TT
+brice     1000 chrome           3290  1.1 ?
+brice     1000 chrome          14769  1.0 ?
+brice     1000 conky            2260  0.8 ?
+root         0 Xorg             1044  0.7 tty7
+brice     1000 skypeforlinux    2484  0.7 ?
+brice     1000 skypeforlinux    2509  0.7 ?
+root         0 main thread       783  0.6 ?
+brice     1000 chrome           3325  0.6 ?
+root         0 systemd             1  0.1 ?
+message+   103 dbus-daemon       769  0.1 ?
+root         0 kthreadd            2  0.0 ?
+
+-------------------------------- 3199
+
+
+jeudi 27 avril 2023, 08:56:47 (UTC+0200)
+
+USER       UID COMMAND           PID %CPU TT
+brice     1000 chrome           3290  1.1 ?
+brice     1000 chrome          14769  1.0 ?
+brice     1000 conky            2260  0.8 ?
+root         0 Xorg             1044  0.7 tty7
+brice     1000 skypeforlinux    2484  0.7 ?
+brice     1000 skypeforlinux    2509  0.7 ?
+root         0 main thread       783  0.6 ?
+brice     1000 chrome           3325  0.6 ?
+root         0 systemd             1  0.1 ?
+message+   103 dbus-daemon       769  0.1 ?
+root         0 kthreadd            2  0.0 ?
+
+-------------------------------- 3200
+
+
