@@ -1,0 +1,400 @@
+
+
+
+Compteur log: 28
+brice     1000 keepassx        26383  0.2
+root         0 Xorg             1006  0.6
+brice     1000 chrome          25637  0.7
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          26282  1.1
+brice     1000 chrome          25636  2.6
+brice     1000 chrome          26311  4.1
+brice     1000 chrome          25595  4.9
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:58:41 (UTC+0100)
+
+
+
+Compteur log: 27
+brice     1000 keepassx        26383  0.3
+root         0 Xorg             1006  0.6
+brice     1000 chrome          25637  0.8
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          26282  1.1
+brice     1000 chrome          25636  2.8
+brice     1000 chrome          26311  4.4
+brice     1000 chrome          25595  5.0
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:58:23 (UTC+0100)
+
+
+
+Compteur log: 26
+brice     1000 keepassx        26383  0.3
+root         0 Xorg             1006  0.6
+brice     1000 chrome          25637  0.8
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          26282  1.1
+brice     1000 chrome          25636  3.0
+brice     1000 chrome          26311  4.6
+brice     1000 chrome          25595  5.1
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:58:06 (UTC+0100)
+
+
+
+Compteur log: 25
+brice     1000 keepassx        26383  0.3
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 chrome          25637  0.9
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          26282  1.2
+brice     1000 chrome          25636  3.1
+brice     1000 chrome          26311  4.9
+brice     1000 chrome          25595  5.3
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:57:49 (UTC+0100)
+
+
+
+Compteur log: 24
+brice     1000 keepassx        26383  0.4
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 chrome          25637  0.9
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          26282  1.1
+brice     1000 chrome          25636  3.2
+brice     1000 chrome          26311  5.2
+brice     1000 chrome          25595  5.5
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:57:32 (UTC+0100)
+
+
+
+Compteur log: 23
+brice     1000 keepassx        26383  0.4
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.0
+brice     1000 chrome          26282  1.1
+brice     1000 chrome          25636  3.4
+brice     1000 chrome          26311  5.6
+brice     1000 chrome          25595  5.6
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:57:15 (UTC+0100)
+
+
+
+Compteur log: 22
+brice     1000 keepassx        26383  0.5
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.0
+brice     1000 chrome          26282  1.2
+brice     1000 chrome          25636  3.7
+brice     1000 chrome          25595  5.8
+brice     1000 chrome          26311  6.1
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:56:58 (UTC+0100)
+
+
+
+Compteur log: 21
+brice     1000 keepassx        26383  0.6
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.0
+brice     1000 chrome          26282  1.3
+brice     1000 chrome          25636  3.7
+brice     1000 chrome          26311  4.4
+brice     1000 chrome          25595  5.8
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:56:40 (UTC+0100)
+
+
+
+Compteur log: 20
+root         0 Xorg             1006  0.6
+brice     1000 keepassx        26383  0.8
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.0
+brice     1000 chrome          26282  1.2
+brice     1000 chrome          25636  3.7
+brice     1000 chrome          26311  4.0
+brice     1000 chrome          25595  5.9
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:56:23 (UTC+0100)
+
+
+
+Compteur log: 19
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 keepassx        26383  1.1
+brice     1000 chrome          25637  1.1
+brice     1000 chrome          26282  1.4
+brice     1000 chrome          26311  3.9
+brice     1000 chrome          25636  3.9
+brice     1000 chrome          25595  6.2
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:56:06 (UTC+0100)
+
+
+
+Compteur log: 18
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.2
+brice     1000 chrome          26282  1.4
+brice     1000 keepassx        26383  1.5
+brice     1000 chrome          26311  3.1
+brice     1000 chrome          25636  4.0
+brice     1000 chrome          25595  6.4
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:55:49 (UTC+0100)
+
+
+
+Compteur log: 17
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.3
+brice     1000 chrome          26282  1.7
+brice     1000 keepassx        26383  2.4
+brice     1000 chrome          26311  2.4
+brice     1000 chrome          25636  4.4
+brice     1000 chrome          25595  7.0
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:55:32 (UTC+0100)
+
+
+
+Compteur log: 16
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.6
+brice     1000 chrome          26282  2.0
+brice     1000 chrome          26311  3.7
+brice     1000 chrome          25636  5.5
+brice     1000 chrome          25595  8.3
+brice     1000 keepassx        26383 18.0
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:55:14 (UTC+0100)
+
+
+
+Compteur log: 15
+root         0 Xorg             1006  0.6
+brice     1000 keepassx        26265  0.8
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          25637  1.7
+brice     1000 chrome          26282  2.4
+brice     1000 chrome          25636  5.9
+brice     1000 chrome          26209  6.6
+brice     1000 chrome          25595  8.8
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:54:57 (UTC+0100)
+
+
+
+Compteur log: 14
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          26282  1.0
+brice     1000 chrome          26229  1.8
+brice     1000 chrome          25637  2.2
+brice     1000 keepassx        26265  3.8
+brice     1000 chrome          26268  6.5
+brice     1000 chrome          25636  7.4
+brice     1000 chrome          26209 10.6
+brice     1000 chrome          25595 10.7
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:54:40 (UTC+0100)
+
+
+
+Compteur log: 13
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 chrome          26066  0.9
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          26121  1.3
+brice     1000 chrome          25637  3.2
+brice     1000 chrome          25636  9.8
+brice     1000 chrome          25595 14.6
+brice     1000 chrome          26209 24.8
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:54:23 (UTC+0100)
+
+
+
+Compteur log: 12
+brice     1000 chrome          26047  0.6
+root         0 Xorg             1006  0.6
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 gcr-prompter    25793  1.1
+brice     1000 chrome          25637  1.7
+brice     1000 chrome          26057  4.8
+brice     1000 chrome          25636  8.2
+brice     1000 chrome          25595 19.0
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:54:06 (UTC+0100)
+
+
+
+Compteur log: 11
+brice     1000 chrome          24274  0.4
+root         0 Xorg             1006  0.6
+brice     1000 chrome           2415  0.7
+brice     1000 chrome          24146  0.8
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome           2383  1.6
+brice     1000 chrome          24176  4.1
+brice     1000 chrome           3730  6.1
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:53:49 (UTC+0100)
+
+
+
+Compteur log: 10
+root         0 Xorg             1006  0.6
+brice     1000 chrome           2415  0.7
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 chrome          24146  0.9
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome           2383  1.6
+brice     1000 chrome          24176  4.6
+brice     1000 chrome           3730  6.1
+root         0 gdebi-gtk       24362 43.3
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:53:31 (UTC+0100)
+
+
+
+Compteur log: 9
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          24146  1.1
+brice     1000 chrome           2383  1.6
+root         0 dpkg-deb        25010  3.8
+brice     1000 chrome          24176  5.3
+brice     1000 chrome           3730  6.1
+root         0 dpkg            25002 19.7
+root         0 gdebi-gtk       24362 40.9
+root         0 dpkg-deb        25011 97.4
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:53:14 (UTC+0100)
+
+
+
+Compteur log: 8
+brice     1000 chrome           2415  0.7
+brice     1000 chrome          24274  0.8
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          24146  1.2
+brice     1000 chrome           2383  1.6
+brice     1000 chrome          24176  6.1
+brice     1000 chrome           3730  6.1
+root         0 gdebi-gtk       24362 48.4
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:52:57 (UTC+0100)
+
+
+
+Compteur log: 7
+brice     1000 chrome           2415  0.7
+brice     1000 skypeforlinux    1814  0.8
+brice     1000 conky            1580  0.8
+root         0 getscreen.me      759  0.8
+brice     1000 skypeforlinux    1788  0.9
+brice     1000 chrome          24274  1.0
+brice     1000 chrome          24146  1.5
+brice     1000 chrome           2383  1.6
+brice     1000 chrome           3730  6.1
+brice     1000 chrome          24176  7.3
+root         0 gdebi-gtk       24362 51.3
+USER       UID COMMAND           PID %CPU
+--------------------------------
+dimanche 11 janvier 2026, 13:52:40 (UTC+0100)
+
+
+
+Compteur log: 6

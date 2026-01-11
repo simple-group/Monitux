@@ -96,6 +96,8 @@ while true; do
             echo "Compteur log: $cptlog"
             echo -e "\n\n"
         } >> monitoring-cpu-log.txt
+        
+        tail -n 400 monitoring-cpu-log.txt | tac > tac.txt
 
         # --- TOP & IO ---
         {
